@@ -4,4 +4,4 @@ My hobbies are iOS gaming, spending time with my family, planting and relaxing w
 
 My favorite Crypto
 
-<script src="https://www.cryptohopper.com/widgets/js/script"></script>
+<div class="cryptohopper-web-widget" data-id="1" data-coins="bitcoin,ethereum,solana,dogecoin,polkadot" data-numcoins="25" data-table_style="dark" data-realtime="on"></div>
